@@ -1,0 +1,21 @@
+.jumbotron img{
+width: 200px;
+
+}
+.jumbotron{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.jumbotron{
+    color:green;
+}
+.judul{
+    text-align: center;
+    min-width: 600px;
+
+}
+.judul hr{
+    width: 100px;
+    border: solid darkblue;
+    
+}
